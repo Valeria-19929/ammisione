@@ -1,0 +1,62 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+.contenitore{
+    width: 1200px;
+    height: 900px;
+    padding: 20px;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 5%;
+}
+main{
+    position: relative;
+    left: 20%;
+}
+#immagine{
+    text-align: center;
+}
+h1{
+    color: rgb(9, 226, 9);
+    font-size: 40px;
+    text-align: center;
+}
+#bottoni{
+    background-color: rgb(9, 226, 9);
+    width: 60%;
+    height: 20px;
+    text-align: center;
+    padding: 10px;
+}
+div>h2{
+    color: white;
+    display: inline-block;
+    font-size: 30px;
+}
+div>p{
+    color: white;
+}
+
+.arancione{
+    background-color: orange;
+    height: 30px;
+    width: 30%;
+    padding: 5px;
+    border-radius: 5px;
+}
+.verde{
+    height: 30px;
+    padding: 5px;
+    width: 50%;
+    background-color: green;
+    border-radius: 5px;
+}
+ .rosso{
+    height: 30px;
+    padding: 5px;
+    width: 20%;
+    background-color: red;
+    border-radius: 5px;
+}
+
